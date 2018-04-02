@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/designPattern_zen/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter02_lsp/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter01_srp/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter03_dip/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter03_lod/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter05_isp/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter05_ocp/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter04_lod/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter04_isp/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter05_lod/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter06_ocp/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter07_Singleton_Pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter_simpleFactory/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter07_SingletonPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter08_simpleFactory/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter09_abstractFactory/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10_templateMethod/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11_builder/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter12_proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13_prototype/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter14_mediator/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter15_command/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter16_chainOfResponsibility/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter17_decorator/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter18_adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter18_strategy/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter19_adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter20_iterator/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter21_Composite/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter22_observer/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter23_facade/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter24_memento/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter_Visitor/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter26_state/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter01_srp/chapter01_srp.iml" filepath="$PROJECT_DIR$/chapter01_srp/chapter01_srp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter02_lsp/chapter02_lsp.iml" filepath="$PROJECT_DIR$/chapter02_lsp/chapter02_lsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter03_dip/chapter03_dip.iml" filepath="$PROJECT_DIR$/chapter03_dip/chapter03_dip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter04_isp/chapter04_isp.iml" filepath="$PROJECT_DIR$/chapter04_isp/chapter04_isp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter05_lod/chapter05_lod.iml" filepath="$PROJECT_DIR$/chapter05_lod/chapter05_lod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter06_ocp/chapter06_ocp.iml" filepath="$PROJECT_DIR$/chapter06_ocp/chapter06_ocp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter07_SingletonPattern/chapter07_SingletonPattern.iml" filepath="$PROJECT_DIR$/chapter07_SingletonPattern/chapter07_SingletonPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter08_simpleFactory/chapter08_simpleFactory.iml" filepath="$PROJECT_DIR$/chapter08_simpleFactory/chapter08_simpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter09_abstractFactory/chapter09_abstractFactory.iml" filepath="$PROJECT_DIR$/chapter09_abstractFactory/chapter09_abstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10_templateMethod/chapter10_templateMethod.iml" filepath="$PROJECT_DIR$/chapter10_templateMethod/chapter10_templateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11_builder/chapter11_builder.iml" filepath="$PROJECT_DIR$/chapter11_builder/chapter11_builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter12_proxy/chapter12_proxy.iml" filepath="$PROJECT_DIR$/chapter12_proxy/chapter12_proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13_prototype/chapter13_prototype.iml" filepath="$PROJECT_DIR$/chapter13_prototype/chapter13_prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14_mediator/chapter14_mediator.iml" filepath="$PROJECT_DIR$/chapter14_mediator/chapter14_mediator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15_command/chapter15_command.iml" filepath="$PROJECT_DIR$/chapter15_command/chapter15_command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter16_chainOfResponsibility/chapter16_chainOfResponsibility.iml" filepath="$PROJECT_DIR$/chapter16_chainOfResponsibility/chapter16_chainOfResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter17_decorator/chapter17_decorator.iml" filepath="$PROJECT_DIR$/chapter17_decorator/chapter17_decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter18_strategy/chapter18_strategy.iml" filepath="$PROJECT_DIR$/chapter18_strategy/chapter18_strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter19_adapter/chapter19_adapter.iml" filepath="$PROJECT_DIR$/chapter19_adapter/chapter19_adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter20_iterator/chapter20_iterator.iml" filepath="$PROJECT_DIR$/chapter20_iterator/chapter20_iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter21_Composite/chapter21_Composite.iml" filepath="$PROJECT_DIR$/chapter21_Composite/chapter21_Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter22_observer/chapter22_observer.iml" filepath="$PROJECT_DIR$/chapter22_observer/chapter22_observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter23_facade/chapter23_facade.iml" filepath="$PROJECT_DIR$/chapter23_facade/chapter23_facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter24_memento/chapter24_memento.iml" filepath="$PROJECT_DIR$/chapter24_memento/chapter24_memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter25_visitor/chapter25_visitor.iml" filepath="$PROJECT_DIR$/chapter25_visitor/chapter25_visitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter26_state/chapter26_state.iml" filepath="$PROJECT_DIR$/chapter26_state/chapter26_state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace_designpattern_ZEN.iml" filepath="$PROJECT_DIR$/.idea/workspace_designpattern_ZEN.iml" />
+    </modules>
+  </component>
+</project>

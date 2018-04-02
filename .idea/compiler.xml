@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="chapter01_srp" />
+        <module name="chapter02_lsp" />
+        <module name="chapter03_dip" />
+        <module name="chapter03_lod" />
+        <module name="chapter04_isp" />
+        <module name="chapter04_lod" />
+        <module name="chapter05_isp" />
+        <module name="chapter05_lod" />
+        <module name="chapter05_ocp" />
+        <module name="chapter06_ocp" />
+        <module name="chapter07_Singleton_Pattern" />
+        <module name="chapter07_SingletonPattern" />
+        <module name="chapter08_simpleFactory" />
+        <module name="chapter09_abstractFactory" />
+        <module name="chapter10_templateMethod" />
+        <module name="chapter11_builder" />
+        <module name="chapter12_proxy" />
+        <module name="chapter13_prototype" />
+        <module name="chapter14_mediator" />
+        <module name="chapter15_command" />
+        <module name="chapter16_chainOfResponsibility" />
+        <module name="chapter17_decorator" />
+        <module name="chapter18_strategy" />
+        <module name="chapter19_adapter" />
+        <module name="chapter20_iterator" />
+        <module name="chapter21_Composite" />
+        <module name="chapter22_observer" />
+        <module name="chapter23_facade" />
+        <module name="chapter24_memento" />
+        <module name="chapter26_state" />
+        <module name="chapter_simpleFactory" />
+        <module name="chapter_Visitor" />
+        <module name="designPattern_zen" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chapter01_srp" target="1.5" />
+      <module name="chapter02_lsp" target="1.5" />
+      <module name="chapter03_dip" target="1.5" />
+      <module name="chapter03_lod" target="1.5" />
+      <module name="chapter04_isp" target="1.5" />
+      <module name="chapter04_lod" target="1.5" />
+      <module name="chapter05_isp" target="1.5" />
+      <module name="chapter05_lod" target="1.5" />
+      <module name="chapter05_ocp" target="1.5" />
+      <module name="chapter06_ocp" target="1.8" />
+      <module name="chapter07_Singleton_Pattern" target="1.5" />
+      <module name="chapter07_SingletonPattern" target="1.5" />
+      <module name="chapter08_simpleFactory" target="1.5" />
+      <module name="chapter09_abstractFactory" target="1.5" />
+      <module name="chapter10_templateMethod" target="1.5" />
+      <module name="chapter11_builder" target="1.5" />
+      <module name="chapter12_proxy" target="1.5" />
+      <module name="chapter13_prototype" target="1.5" />
+      <module name="chapter14_mediator" target="1.5" />
+      <module name="chapter15_command" target="1.5" />
+      <module name="chapter16_chainOfResponsibility" target="1.5" />
+      <module name="chapter17_decorator" target="1.5" />
+      <module name="chapter18_adapter" target="1.5" />
+      <module name="chapter18_strategy" target="1.5" />
+      <module name="chapter19_adapter" target="1.5" />
+      <module name="chapter20_iterator" target="1.5" />
+      <module name="chapter21_Composite" target="1.5" />
+      <module name="chapter21_composite" target="1.5" />
+      <module name="chapter22_observer" target="1.5" />
+      <module name="chapter23_facade" target="1.5" />
+      <module name="chapter24_memento" target="1.5" />
+      <module name="chapter25_visitor" target="1.5" />
+      <module name="chapter26_state" target="1.5" />
+      <module name="chapter_simpleFactory" target="1.5" />
+      <module name="chapter_Visitor" target="1.5" />
+      <module name="designPattern_zen" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
