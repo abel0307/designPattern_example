@@ -1,4 +1,5 @@
-package com.company.proxy.section9;
+package com.company.proxy.section5.part2;
+
 
 /**
  * @author cbf4Life cbf4life@126.com
@@ -7,31 +8,22 @@ package com.company.proxy.section9;
  */
 public class Client {
 
-	public static void main(String[] args) throws Throwable  {
-		//定义一个痴迷的玩家
+	public static void main(String[] args) {
+		//定义个游戏的角色
 		IGamePlayer player = new GamePlayer("张三");
-
+		//然后再定义一个代练者
+		IGamePlayer proxy = new GamePlayerProxy(player);
+		
 		//开始打游戏，记下时间戳
 		System.out.println("开始时间是：2009-8-25 10:45");
-
-		//获得类的class loader
-		ClassLoader cl = player.getClass().getClassLoader();
-
-
-		IGamePlayer proxy = DynamicProxy.newProxyInstance(cl,new Class[] {IGamePlayer.class}, new MyIvocationHandler(player));
-		
-		//登陆
 		proxy.login("zhangSan", "password");
 		//开始杀怪
 		proxy.killBoss();
 		//升级
 		proxy.upgrade();
-
 		//记录结束游戏时间
 		System.out.println("结束时间是：2009-8-26 03:40");
 		
 	}
-	
-	
 
 }

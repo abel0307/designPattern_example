@@ -1,14 +1,14 @@
-package com.company.proxy.section6;
+package com.company.proxy.section5.part2;
 
 /**
  * @author cbf4Life cbf4life@126.com
  * I'm glad to share my knowledge with you all.
  * 代练者
  */
-public class GamePlayerProxy implements IGamePlayer,IProxy {
+public class GamePlayerProxy implements IGamePlayer {
 	private IGamePlayer gamePlayer = null;
 	
-	//通过构造函数传递要对谁进行代练
+	//构造函数传递用户名
 	public GamePlayerProxy(IGamePlayer _gamePlayer){
 		this.gamePlayer = _gamePlayer;
 	}
@@ -27,11 +27,11 @@ public class GamePlayerProxy implements IGamePlayer,IProxy {
 	//代练升级
 	public void upgrade() {
 		this.gamePlayer.upgrade();
-		this.count();
+
 	}
 	
-	//计算费用
-	public void count(){
-		System.out.println("升级总费用是：150元");
+	//代理的代理暂时还没有,就是自己
+	public IGamePlayer getProxy(){
+		return this;
 	}
 }

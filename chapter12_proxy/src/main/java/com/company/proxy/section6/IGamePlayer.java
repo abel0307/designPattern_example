@@ -15,7 +15,4 @@ public interface IGamePlayer {
 	
 	//升级
 	public void upgrade();
-	
-	//每个人都可以找一下自己的代理
-	public IGamePlayer getProxy();
 }

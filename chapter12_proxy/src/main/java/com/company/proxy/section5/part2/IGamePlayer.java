@@ -1,4 +1,4 @@
-package com.company.proxy.section7;
+package com.company.proxy.section5.part2;
 
 /**
  * @author cbf4Life cbf4life@126.com
@@ -15,4 +15,7 @@ public interface IGamePlayer {
 	
 	//升级
 	public void upgrade();
+	
+	//每个人都可以找一下自己的代理
+	public IGamePlayer getProxy();
 }
